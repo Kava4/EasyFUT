@@ -1,0 +1,55 @@
+{
+  "name": "EasyFUT",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "The EasyFUT provides a simple way to solve SBCs and also provides a way to trade players",
+  "icons": {
+      "16": "icon16.png",
+      "32": "icon32.png",
+      "48": "header_image1.png",
+      "128": "EasyFUT.png"
+  },
+  "background": {
+      "service_worker": "background.js"
+  },
+  "content_scripts": [
+      {
+          "js": [
+              "content.js"
+          ],
+          "matches": [
+              "https://www.ea.com/ea-sports-fc/ultimate-team/web-app/*"
+          ]
+      }
+  ],
+  "permissions": [
+      "notifications", "alarms", "storage", "tabs", "activeTab", "scripting"
+  ],
+  
+  "host_permissions": [
+      "https://futbin.com/*",
+      "https://www.futbin.com/*",
+      "https://futnext.com/*",
+      "https://www.futnext.com/*",
+      "https://futbin.org/*",
+      "https://exp.host/*",
+      "https://www.autosbc.app/*",
+      "https://kava4.github.io/EasyFUT/*",
+      "https://kava4.github.io/*"
+  ],
+  "web_accessible_resources": [
+      {
+          "resources": [
+                "vendor.js",
+                "main.js",
+                "icon32.png",
+                "autosbc.js"
+          ],
+          "matches": [
+              "<all_urls>"
+          ]
+      }
+  ],
+  "update_url": "https://clients2.google.com/service/update2/crx"
+
+}

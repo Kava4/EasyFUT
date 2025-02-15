@@ -1,0 +1,3 @@
+# Ignore the original_scripts folder
+original_scripts/
+obfuscate_js.py
