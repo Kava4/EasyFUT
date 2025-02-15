@@ -1,3 +1,5 @@
 # Ignore the original_scripts folder
 original_scripts/
 obfuscate_js.py
+pack_extension.py
+EasyFUT-extension.zip

@@ -1,7 +1,7 @@
 # ⚡ EasyFUT - The Ultimate FUT Web App Power Tool  
 > **"Your FUT experience, on autopilot. Less clicking, more winning."**  
 
-![EasyFUT Banner](https://yourimageurl.com/banner.png) <!-- Replace with your actual banner -->
+![EasyFUT Banner](https://raw.githubusercontent.com/Kava4/EasyFUT/main/easyfut.png) <!-- Replace with your actual banner -->
 
 ## 🎮 What is EasyFUT?  
 EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate Team Web App**.  
@@ -33,7 +33,9 @@ EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate
 ---
 
 ## 🖥️ Preview - See It in Action!  
-![EasyFUT Demo](https://yourimageurl.com/demo.gif) <!-- Replace with actual GIF for max coolness -->
+![EasyFUT Demo SBCs](https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/EasyFUT_sbc.gif)
+![EasyFUT Demo automations1](https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/automations1.png)
+![EasyFUT Demo automations2](https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/automations2.png) <!-- Replace with actual GIF for max coolness -->
 
 ---
 
