@@ -13,6 +13,41 @@
     
 }
 
+#buyPremium {
+    background: #00c853; /* Green */
+    color: white;
+    padding: 8px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    font-weight: bold;
+    transition: all 0.3s ease-in-out;
+    animation: pulse 2s infinite;
+}
+
+#buyPremium:hover {
+    background: #009624; /* Darker green on hover */
+    transform: scale(1.05);
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+#premiumContainer {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* Space between button and text */
+    position: absolute;
+    right: 20px; /* Aligns near the user info */
+    top: 10px;
+}
+
+.fc-header-view .eaSports{
+    display: none !important;
+}
 
 
 
@@ -63,7 +98,19 @@
 }
 
 
-
+/* Custom Scrollbar */
+.ut-click-shield {
+    align-items: center;
+    background-color: rgba(0, 0, 0, .8);
+    display: none;
+    height: 120%;
+    justify-content: center;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 21;
+}
 
 
 
