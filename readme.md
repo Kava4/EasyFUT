@@ -85,7 +85,7 @@ EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate
 
 ## 📦 Standalone App (Portable EXE)
 
-🚀 **[Download EasyFUT-Portable.exe](https://your-download-link.com)**  
+🚀 **[Download EasyFUT-Portable.exe](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.exe)**  
 ✅ No installation required – just **run and play!**
 
 ---
