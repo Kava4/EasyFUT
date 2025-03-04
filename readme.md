@@ -83,6 +83,23 @@ EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate
 
 ---
 
+### 🔹 Option 2: Tampermonkey Userscript (PC & Mobile!)
+
+✅ **Works on PC, Android & iOS (Safari/Chrome via Tampermonkey)**
+
+#### **📌 How to Install on Any Device**
+
+1. **Install [Tampermonkey](https://www.tampermonkey.net/)** for:
+   - **Chrome, Edge, or Firefox (PC & Android)**
+   - **Safari (iOS & Mac)**
+2. **Click to install the EasyFUT Userscript** → [**INSTALL NOW**](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js)
+3. **Go to the [FUT Web App](https://www.ea.com/fifa/ultimate-team/web-app/)**
+4. **Enjoy EasyFUT's Features!** 🎮
+
+💡 _On iOS, after installing the userscript, add FUT Web App to your home screen for a near-native experience!_
+
+---
+
 ## 📦 Standalone App (Portable EXE)
 
 🚀 **[Download EasyFUT.exe](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.exe)**  
