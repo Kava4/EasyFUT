@@ -138,3 +138,7 @@ body.landscape {
 .btn-standard.btn-gradient-secondary {
   display: none;
 }
+
+.app-logo {
+  display: none !important;
+}
