@@ -142,3 +142,7 @@ body.landscape {
 .app-logo {
   display: none !important;
 }
+
+.app-logo-img {
+  display: none !important;
+}
