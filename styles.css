@@ -139,10 +139,18 @@ body.landscape {
   display: none;
 }
 
-.app-logo {
-  display: none !important;
-}
-
-.app-logo-img {
-  display: none !important;
+@media (max-width: 768px) {
+  /* Adjust breakpoint as needed */
+  .app-logo {
+    display: none !important;
+  }
+  .app-logo-mobile {
+    display: none !important;
+  }
+  .app-logo-mobile img {
+    display: none !important;
+  }
+  .app-logo img {
+    display: none !important;
+  }
 }
