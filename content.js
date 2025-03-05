@@ -1,1 +1,55 @@
-const a0_0x5a6065=a0_0x4ca3;(function(_0x8e6c92,_0x4ebdf2){const _0x5ca68f=a0_0x4ca3,_0xe34879=_0x8e6c92();while(!![]){try{const _0x122b7a=parseInt(_0x5ca68f(0x79))/0x1+parseInt(_0x5ca68f(0x7e))/0x2+-parseInt(_0x5ca68f(0x85))/0x3*(-parseInt(_0x5ca68f(0x91))/0x4)+parseInt(_0x5ca68f(0x92))/0x5*(-parseInt(_0x5ca68f(0x83))/0x6)+parseInt(_0x5ca68f(0x8f))/0x7+-parseInt(_0x5ca68f(0x8a))/0x8+-parseInt(_0x5ca68f(0x84))/0x9*(parseInt(_0x5ca68f(0x6e))/0xa);if(_0x122b7a===_0x4ebdf2)break;else _0xe34879['push'](_0xe34879['shift']());}catch(_0x80264c){_0xe34879['push'](_0xe34879['shift']());}}}(a0_0x5baa,0x4c81c));const mainScript=document['createElement'](a0_0x5a6065(0x6f));mainScript['src']=chrome[a0_0x5a6065(0x6c)][a0_0x5a6065(0x81)](a0_0x5a6065(0x74)),document[a0_0x5a6065(0x82)]['appendChild'](mainScript),mainScript[a0_0x5a6065(0x90)]=()=>mainScript[a0_0x5a6065(0x87)]();const vendorScript=document[a0_0x5a6065(0x70)](a0_0x5a6065(0x6f));function a0_0x4ca3(_0x533c41,_0x461ead){const _0x5baaba=a0_0x5baa();return a0_0x4ca3=function(_0x4ca3a0,_0x5e1004){_0x4ca3a0=_0x4ca3a0-0x6a;let _0x332456=_0x5baaba[_0x4ca3a0];return _0x332456;},a0_0x4ca3(_0x533c41,_0x461ead);}vendorScript['src']=chrome['runtime'][a0_0x5a6065(0x81)](a0_0x5a6065(0x8d)),document[a0_0x5a6065(0x82)][a0_0x5a6065(0x77)](vendorScript),vendorScript[a0_0x5a6065(0x90)]=()=>vendorScript[a0_0x5a6065(0x87)]();function a0_0x5baa(){const _0x5af9a6=['type','7175810aKmNPH','script','createElement','WJRvW','has','header_image.png','main.js','link','closeWebApp','appendChild','rel','598365HJMqQD','sendMessage','message','styles.css','src','1114448KpJkSi','TOfgI','clearAlarm','getURL','head','1566744hGjgLS','9KREkZt','3FumBUr','gnLwm','remove','data','postMessage','1780080rzWBkS','identifier','text/css','vendor.js','notification','3000018xnifFF','onload','766192EtMpCJ','10VhMtiN','stylesheet','jXsYN','autosbc.js','payload','runtime'];a0_0x5baa=function(){return _0x5af9a6;};return a0_0x5baa();}const autosbcScript=document[a0_0x5a6065(0x70)](a0_0x5a6065(0x6f));autosbcScript[a0_0x5a6065(0x7d)]=chrome[a0_0x5a6065(0x6c)][a0_0x5a6065(0x81)](a0_0x5a6065(0x6a)),document[a0_0x5a6065(0x82)][a0_0x5a6065(0x77)](autosbcScript),autosbcScript['onload']=()=>autosbcScript[a0_0x5a6065(0x87)]();const link=document[a0_0x5a6065(0x70)](a0_0x5a6065(0x75));link['href']=chrome[a0_0x5a6065(0x6c)][a0_0x5a6065(0x81)](a0_0x5a6065(0x7c)),link[a0_0x5a6065(0x6d)]=a0_0x5a6065(0x8c),link[a0_0x5a6065(0x78)]=a0_0x5a6065(0x93),document['head'][a0_0x5a6065(0x77)](link);const supportedMessageTypes=new Set([a0_0x5a6065(0x8e),'createAlarm',a0_0x5a6065(0x80)]),handleScriptEvents=_0x5173da=>{const _0x202b5c=a0_0x5a6065,_0x262636={'TOfgI':function(_0x5e3b75,_0x1a8c83){return _0x5e3b75===_0x1a8c83;},'WJRvW':'fetchFromExternal','PfqJr':function(_0xf321e6,_0x3e94c1){return _0xf321e6===_0x3e94c1;},'gnLwm':'fetchExtensionLogo','jXsYN':_0x202b5c(0x73)};if(_0x262636[_0x202b5c(0x7f)](_0x5173da[_0x202b5c(0x88)][_0x202b5c(0x6d)],_0x262636[_0x202b5c(0x71)]))chrome[_0x202b5c(0x6c)][_0x202b5c(0x7a)](_0x5173da[_0x202b5c(0x88)]['payload'],_0x350b0f=>{const _0x5601ec=_0x202b5c;window[_0x5601ec(0x89)]({'response':_0x350b0f});});else{if(_0x262636['PfqJr'](_0x5173da[_0x202b5c(0x88)][_0x202b5c(0x6d)],_0x262636[_0x202b5c(0x86)]))window[_0x202b5c(0x89)]({'response':{'response':chrome[_0x202b5c(0x6c)][_0x202b5c(0x81)](_0x262636[_0x202b5c(0x94)]),'status':0xc8,'identifier':_0x5173da['data'][_0x202b5c(0x6b)][_0x202b5c(0x8b)]}});else{if(_0x5173da[_0x202b5c(0x88)][_0x202b5c(0x6d)]===_0x202b5c(0x76))chrome[_0x202b5c(0x6c)][_0x202b5c(0x7a)]({'options':_0x202b5c(0x76)});else supportedMessageTypes[_0x202b5c(0x72)](_0x5173da[_0x202b5c(0x88)]['type'])&&chrome[_0x202b5c(0x6c)][_0x202b5c(0x7a)]({'options':{'type':_0x5173da['data'][_0x202b5c(0x6d)],..._0x5173da[_0x202b5c(0x88)][_0x202b5c(0x6b)]}});}}};window['addEventListener'](a0_0x5a6065(0x7b),handleScriptEvents);
+// Initialize script injection
+const mainScript = document.createElement("script");
+mainScript.src = chrome.runtime.getURL("main.js");
+document.head.appendChild(mainScript);
+mainScript.onload = () => mainScript.remove();
+
+// Load vendor script
+const vendorScript = document.createElement("script");
+vendorScript.src = chrome.runtime.getURL("vendor.js");
+document.head.appendChild(vendorScript);
+vendorScript.onload = () => vendorScript.remove();
+
+// Load AutoSBC script (Premium feature)
+const autosbcScript = document.createElement("script");
+autosbcScript.src = chrome.runtime.getURL("autosbc.js");
+document.head.appendChild(autosbcScript);
+autosbcScript.onload = () => autosbcScript.remove();
+
+// Load styles
+const link = document.createElement("link");
+link.href = chrome.runtime.getURL("styles.css");
+link.type = "text/css";
+link.rel = "stylesheet";
+document.head.appendChild(link);
+
+// Handle events
+const supportedMessageTypes = new Set([
+  "notification",
+  "createAlarm",
+  "clearAlarm",
+]);
+
+const handleScriptEvents = (e) => {
+  if (e.data.type === "fetchFromExternal") {
+    chrome.runtime.sendMessage(e.data.payload, (response) => {
+      window.postMessage({ response });
+    });
+  } else if (e.data.type === "fetchExtensionLogo") {
+    window.postMessage({
+      response: {
+        response: chrome.runtime.getURL("header_image.png"),
+        status: 200,
+        identifier: e.data.payload.identifier,
+      },
+    });
+  } else if (e.data.type === "closeWebApp") {
+    chrome.runtime.sendMessage({ options: "closeWebApp" });
+  } else if (supportedMessageTypes.has(e.data.type)) {
+    chrome.runtime.sendMessage({
+      options: { type: e.data.type, ...e.data.payload },
+    });
+  }
+};
+
+window.addEventListener("message", handleScriptEvents);
