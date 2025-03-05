@@ -18,7 +18,8 @@
 🔹 [🏆 How to Use - Your FUT, Supercharged](#-how-to-use---your-fut-supercharged)  
 🔹 [❓ FAQ - Answering Your Burning Questions](#-faq---answering-your-burning-questions)  
 🔹 [❤️ Support & Donations](#-support--donations)  
-🔹 [📜 License](#-license)
+🔹 [📜 License](#-license)  
+🔹 [📱 Device-Specific Installation Instructions](#-device-specific-installation-instructions)
 
 ---
 
@@ -51,6 +52,17 @@ EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate
 </p>
 
 - **Auto Claim Rewards, Auto Position Changes & more!**
+
+---
+
+## 📱 Mobile Version!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/ios_home.PNG" width="300" alt="Mobile Version Screenshot 1">
+  <img src="https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/ios_easyfut.PNG" width="300" alt="Mobile Version Screenshot 2">
+  <img src="https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/ios_autosbc.PNG" width="300" alt="Mobile Version Screenshot 3">
+  <img src="https://raw.githubusercontent.com/Kava4/EasyFUT/main/img/ios_sniper.jpeg" width="300" alt="Mobile Version Screenshot 4">
+</p>
 
 ---
 
@@ -147,3 +159,40 @@ EasyFUT is the **most powerful** automation tool for the **EA Sports FC Ultimate
 EasyFUT is released under the **MIT License**. Feel free to use, modify, and enhance it.
 
 📢 **Dominate FUT like never before. Install EasyFUT today!** ⚡🔥
+
+---
+
+## 📱 Device-Specific Installation Instructions
+
+### **iOS (Safari)**
+
+1. Install the **Userscripts** app from the App Store.
+2. Download the [EasyFUT Userscript](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js).
+3. Place it in the **Userscripts** folder within the app.
+4. Open Safari and go to the FUT Web App.
+5. Tap **Add to Home Screen** for a near-native experience.
+
+### **Android (Chrome/Firefox)**
+
+1. Install **Tampermonkey** or **Greasemonkey** from the Google Play Store.
+2. Install the [EasyFUT Userscript](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js).
+3. Go to the [FUT Web App](https://www.ea.com/fifa/ultimate-team/web-app/).
+4. Enjoy using EasyFUT on your mobile device.
+
+### **Microsoft Edge**
+
+1. Install **Tampermonkey** from the Microsoft Store.
+2. Install the [EasyFUT Userscript](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js).
+3. Go to the [FUT Web App](https://www.ea.com/fifa/ultimate-team/web-app/).
+
+### **Maxthon**
+
+1. Install **Violentmonkey** from the Maxthon extensions store.
+2. Install the [EasyFUT Userscript](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js).
+3. Open the [FUT Web App](https://www.ea.com/fifa/ultimate-team/web-app/).
+
+### **Dolphin**
+
+1. Install **Tampermonkey** from the Google Play Store.
+2. Install the [EasyFUT Userscript](https://github.com/Kava4/EasyFUT/releases/download/v1.5/EasyFUT.user.js).
+3. Go to the [FUT Web App](https://www.ea.com/fifa/ultimate-team/web-app/).
