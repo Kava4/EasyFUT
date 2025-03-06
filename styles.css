@@ -139,6 +139,10 @@ body.landscape {
   display: none;
 }
 
+.ut-image-button-control.ellipsis-btn:not(.custom-bulk-btn)::after {
+  display: none !important;
+}
+
 @media (max-width: 768px) {
   /* Adjust breakpoint as needed */
   .app-logo {
