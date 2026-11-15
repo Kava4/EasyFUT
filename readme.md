@@ -1,5 +1,7 @@
 # ⚡ EasyFUT - The Ultimate FUT Web App Power Tool
 
+bash grab.sh  # fetch runtime deps
+
 > **"Your FUT experience, on autopilot. Less clicking, more winning."**
 
 <p align="center">
